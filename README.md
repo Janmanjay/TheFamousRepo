@@ -6,4 +6,6 @@ An exercise with GA
 * Now that we have cloned the repo locally, let's make some changes
 * Adding two more lines to the readme.md file
 
+* Now let's add some more lines to the file using GitHub GUI or remotely
+* We will then pull these changes to the local machine
 
